@@ -1,9 +1,9 @@
-# Web-Scraping-and-Interactive-Dictionary
 This project contains 2 parts:
 
-Interactive Dictionary - A python script that takes the word as i input and outputs its meaning. If word entered is not there in data, then it displays the close matches of that word.
+1) Interactive Dictionary - A python script that takes the word as i input and outputs its meaning. If word entered is not there in data, then it displays the close matches of that word.
 
-Web-Scraping: It contains the following files: i) List of Books with corresponding authors. (Data scraped form http://quotes.toscrape.com)
+2) Web-Scraping: It contains the following files:
+i) List of Books with corresponding authors. (Data scraped form http://quotes.toscrape.com)
 
 ii) To find python snippets form lecture slides used for the course ES112
 
