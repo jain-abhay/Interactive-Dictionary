@@ -1,6 +1,6 @@
 This project contains 2 parts:
 
-1) Interactive Dictionary - A python script that takes the word as i input and outputs its meaning. If word entered is not there in data, then it displays the close matches of that word.
+1) Interactive Dictionary - A python script that takes the word as an input and outputs its meaning. If word entered is not there in data, then it displays the close matches of that word.
 
 2) Web-Scraping: It contains the following files:
 
